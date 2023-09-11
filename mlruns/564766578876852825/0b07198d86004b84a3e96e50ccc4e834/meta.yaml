@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jitheshyemireddy/Desktop/MLflow/mlruns/564766578876852825/0b07198d86004b84a3e96e50ccc4e834/artifacts
+end_time: 1694475953916
+entry_point_name: ''
+experiment_id: '564766578876852825'
+lifecycle_stage: active
+run_id: 0b07198d86004b84a3e96e50ccc4e834
+run_name: logit_run
+run_uuid: 0b07198d86004b84a3e96e50ccc4e834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694475950024
+status: 3
+tags: []
+user_id: jitheshyemireddy
