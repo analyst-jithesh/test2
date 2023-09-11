@@ -1,0 +1,19 @@
+digest: dc990632
+name: dataset
+profile: '{"num_rows": 38964, "num_elements": 857208}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Age"}, {"type": "long", "name":
+  "Flight Distance"}, {"type": "double", "name": "Arrival Delay"}, {"type": "long",
+  "name": "Departure and Arrival Time Convenience"}, {"type": "long", "name": "Ease
+  of Online Booking"}, {"type": "long", "name": "Check-in Service"}, {"type": "long",
+  "name": "Online Boarding"}, {"type": "long", "name": "Gate Location"}, {"type":
+  "long", "name": "On-board Service"}, {"type": "long", "name": "Seat Comfort"}, {"type":
+  "long", "name": "Leg Room Service"}, {"type": "long", "name": "Cleanliness"}, {"type":
+  "long", "name": "Food and Drink"}, {"type": "long", "name": "In-flight Service"},
+  {"type": "long", "name": "In-flight Wifi Service"}, {"type": "long", "name": "In-flight
+  Entertainment"}, {"type": "long", "name": "Baggage Handling"}, {"type": "boolean",
+  "name": "Gender_Male"}, {"type": "boolean", "name": "Customer Type_Returning"},
+  {"type": "boolean", "name": "Type of Travel_Personal"}, {"type": "boolean", "name":
+  "Class_Economy"}, {"type": "boolean", "name": "Class_Economy Plus"}]}'
+source: '{"tags": {"mlflow.user": "jitheshyemireddy", "mlflow.source.name": "/Users/jitheshyemireddy/Desktop/MLflow/venv/lib/python3.9/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "260911b93dd30bfaba40128bf1355cae96864f05"}}'
+source_type: code
